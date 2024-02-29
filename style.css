@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+body{
+    background-image: url(https://www.shutterstock.com/image-photo/barbell-fitness-training-gym-sports-600nw-2139742761.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+h1{
+    margin-inline: 5em;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: -0.6em;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+label{
+    margin-left: 13em;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.745);
+    border-radius: 20px;
+}
+
+input{
+    font-size: 25px;
+}
+
+button{
+font-size: 30px;
+margin-left: 20em;
+margin-top: 0.5em;
+}
+
+img{
+    height: 300px;
+    margin-left: 34em;
+}
+
+p{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.729);
+    color: white;
+    margin-inline: 9em;
+    border-radius: 20px;
+}
+
+span{
+    background-color: white;
+    color: black;
+    margin-left: 0.4em;
+}
+
+footer{
+    font-size: 50px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.66);
+}
